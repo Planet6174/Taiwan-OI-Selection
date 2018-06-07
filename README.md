@@ -4,6 +4,6 @@
 2. 函数（常函数、多项式函数、幂函数）
 
 f(x+y)=f(x)+f(y) -> f(x)=ax  
-f(x+y)=f(x)*f(y) -> f(x)=x<sup>a</sup>
-f(x*y)=f(x)+f(y) -> f(x)=log<sub>a</sub>x
+f(x+y)=f(x)*f(y) -> f(x)=x<sup>a</sup>  
+f(x*y)=f(x)+f(y) -> f(x)=log<sub>a</sub>x  
 f(x*y)=f(x)*f(y) -> f(x)=a<sup>x</sup>
